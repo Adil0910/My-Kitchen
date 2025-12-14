@@ -82,7 +82,14 @@ function minus(id){
         {filteredItems.map((item) => (
          <div key={item.id} style={styles.card} className="service-card">
 
-            <img src={item.image} alt={item.name} style={styles.image} />
+           <img
+  src={item.image || "/image/placeholder.jpeg"}
+  alt={item.name}
+  style={styles.image}
+  onError={(e) => {
+    e.target.src = "/image/placeholder.jpeg";
+  }}
+/>
             <h2 style={styles.name}>{item.name}</h2>
             <p>{item.category} • {item.type}</p>
             <p style={styles.price}>₹{item.price}</p>

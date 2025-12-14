@@ -7,46 +7,46 @@
     { "id": 5, "name": "Butter Naan", "category": "Indian", "type": "Veg", "price": 40, "spicy": false, "available": true, "tags": ["bread","side"], "description": "Soft tandoori naan brushed with butter", "image": "/image/naan.jpeg" },
 
     { "id": 6, "name": "Veg Manchurian", "category": "Chinese", "type": "Veg", "price": 150, "spicy": true, "available": true, "tags": ["starter","chinese"], "description": "Crispy veg balls tossed in tangy schezwan sauce", "image": "/image/muchuriyan.jpeg" },
-    { "id": 7, "name": "Chicken Manchurian", "category": "Chinese", "type": "Non-Veg", "price": 170, "spicy": true, "available": true, "tags": ["starter","chinese"], "description": "Chicken cubes in spicy-sweet Manchurian sauce", "image": "/image/Delicious Chicken Manchurian.jpeg" },
-    { "id": 8, "name": "Chicken Fried Rice", "category": "Chinese", "type": "Non-Veg", "price": 140, "spicy": false, "available": true, "tags": ["rice","chinese"], "description": "Wok-fried rice with chicken and veggies", "image": "/image/Chicken Fried Rice.jpeg" },
-    { "id": 9, "name": "Veg Fried Rice", "category": "Chinese", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["rice","chinese"], "description": "Classic veg fried rice with spring onions", "image": "/image/Best Cajun Rice Recipe!.jpeg" },
-    { "id": 10, "name": "Chilli Chicken", "category": "Chinese", "type": "Non-Veg", "price": 180, "spicy": true, "available": true, "tags": ["starter","chinese"], "description": "Indo-Chinese spicy chilli chicken", "image": "/image/Chilli chicken.jpeg" },
+    { "id": 7, "name": "Chicken Manchurian", "category": "Chinese", "type": "Non-Veg", "price": 170, "spicy": true, "available": true, "tags": ["starter","chinese"], "description": "Chicken cubes in spicy-sweet Manchurian sauce", "image": "/image/delicious Chicken Manchurian.jpeg" },
+    { "id": 8, "name": "Chicken Fried Rice", "category": "Chinese", "type": "Non-Veg", "price": 140, "spicy": false, "available": true, "tags": ["rice","chinese"], "description": "Wok-fried rice with chicken and veggies", "image": "/image/chicken Fried Rice.jpeg" },
+    { "id": 9, "name": "Veg Fried Rice", "category": "Chinese", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["rice","chinese"], "description": "Classic veg fried rice with spring onions", "image": "/image/best Cajun Rice Recipe!.jpeg" },
+    { "id": 10, "name": "Chilli Chicken", "category": "Chinese", "type": "Non-Veg", "price": 180, "spicy": true, "available": true, "tags": ["starter","chinese"], "description": "Indo-Chinese spicy chilli chicken", "image": "/image/chilli chicken.jpeg" },
 
     { "id": 11, "name": "Schezwan Noodles (Veg)", "category": "Chinese", "type": "Veg", "price": 130, "spicy": true, "available": true, "tags": ["noodles","chinese"], "description": "Schezwan flavored stir-fried noodles with veggies", "image": "/image/noodles.jpeg" },
-    { "id": 12, "name": "Schezwan Noodles (Chicken)", "category": "Chinese", "type": "Non-Veg", "price": 160, "spicy": true, "available": true, "tags": ["noodles","chinese"], "description": "Schezwan noodles with shredded chicken", "image": "/image/Chicken Schezwan noodles.jpeg" },
+    { "id": 12, "name": "Schezwan Noodles (Chicken)", "category": "Chinese", "type": "Non-Veg", "price": 160, "spicy": true, "available": true, "tags": ["noodles","chinese"], "description": "Schezwan noodles with shredded chicken", "image": "/image/chicken Schezwan noodles.jpeg" },
 
     { "id": 13, "name": "Margherita Pizza", "category": "Fast Food", "type": "Veg", "price": 220, "spicy": false, "available": true, "tags": ["pizza","fastfood"], "description": "Classic cheese & tomato pizza", "image": "/image/pizza.jpeg" },
-    { "id": 14, "name": "Pepper Chicken Pizza", "category": "Fast Food", "type": "Non-Veg", "price": 260, "spicy": false, "available": true, "tags": ["pizza","fastfood"], "description": "Chicken, bell peppers & black pepper", "image": "/image/Pepperoni pizza.jpeg" },
+    { "id": 14, "name": "Pepper Chicken Pizza", "category": "Fast Food", "type": "Non-Veg", "price": 260, "spicy": false, "available": true, "tags": ["pizza","fastfood"], "description": "Chicken, bell peppers & black pepper", "image": "/image/pepperoni pizza.jpeg" },
     { "id": 15, "name": "Chicken Burger", "category": "Fast Food", "type": "Non-Veg", "price": 140, "spicy": false, "available": true, "tags": ["burger","fastfood"], "description": "Grilled chicken patty with lettuce & mayo", "image": "/image/chickenburger.jpeg" },
-    { "id": 16, "name": "Veg Burger", "category": "Fast Food", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["burger","fastfood"], "description": "Veg patty with tomato & lettuce", "image": "/image/Veggie Burger.jpeg" },
+    { "id": 16, "name": "Veg Burger", "category": "Fast Food", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["burger","fastfood"], "description": "Veg patty with tomato & lettuce", "image": "/image/veggie Burger.jpeg" },
 
-    { "id": 17, "name": "Chicken Lollipop", "category": "Starters", "type": "Non-Veg", "price": 180, "spicy": true, "available": true, "tags": ["starter"], "description": "Crunchy deep-fried chicken lollipops", "image": "/image/Chicken lollipop.jpeg" },
+    { "id": 17, "name": "Chicken Lollipop", "category": "Starters", "type": "Non-Veg", "price": 180, "spicy": true, "available": true, "tags": ["starter"], "description": "Crunchy deep-fried chicken lollipops", "image": "/image/chicken lollipop.jpeg" },
     { "id": 18, "name": "Hara Bhara Kebab", "category": "Starters", "type": "Veg", "price": 140, "spicy": false, "available": true, "tags": ["starter"], "description": "Spinach & pea kebabs with mint chutney", "image": "/image/hara kabab.jpeg" },
-    { "id": 19, "name": "Fish Amritsari", "category": "Starters", "type": "Non-Veg", "price": 200, "spicy": true, "available": true, "tags": ["starter","seafood"], "description": "Crispy spiced fish fry from Amritsar style", "image": "/image/Amirtsari Fish.jpeg" },
+    { "id": 19, "name": "Fish Amritsari", "category": "Starters", "type": "Non-Veg", "price": 200, "spicy": true, "available": true, "tags": ["starter","seafood"], "description": "Crispy spiced fish fry from Amritsar style", "image": "/image/amirtsari Fish.jpeg" },
     { "id": 20, "name": "Spring Rolls (Veg)", "category": "Starters", "type": "Veg", "price": 110, "spicy": false, "available": true, "tags": ["starter","chinese"], "description": "Crispy veg spring rolls with sweet chili dip", "image": "/image/chicken spring rol.jpeg" },
 
-    { "id": 21, "name": "Tandoori Chicken", "category": "Indian", "type": "Non-Veg", "price": 260, "spicy": true, "available": true, "tags": ["starter","grill"], "description": "Charred tandoori chicken with mint chutney", "image": "/image/Authentic Tandoori Chicken.jpeg" },
+    { "id": 21, "name": "Tandoori Chicken", "category": "Indian", "type": "Non-Veg", "price": 260, "spicy": true, "available": true, "tags": ["starter","grill"], "description": "Charred tandoori chicken with mint chutney", "image": "/image/authentic Tandoori Chicken.jpeg" },
     { "id": 22, "name": "Palak Paneer", "category": "Indian", "type": "Veg", "price": 165, "spicy": false, "available": true, "tags": ["curry","main"], "description": "Paneer cubes in smooth spinach gravy", "image": "/image/palak paneer.jpeg" },
 
     { "id": 23, "name": "Butter Chicken", "category": "Indian", "type": "Non-Veg", "price": 260, "spicy": false, "available": true, "tags": ["curry","main"], "description": "Creamy tomato butter chicken", "image": "/image/butter chicken.jpeg" },
     { "id": 24, "name": "Chana Masala", "category": "Indian", "type": "Veg", "price": 130, "spicy": true, "available": true, "tags": ["curry","main"], "description": "Tangy spicy chickpea curry", "image": "/image/masala chana.jpeg" },
 
-    { "id": 25, "name": "Gobi Manchurian", "category": "Chinese", "type": "Veg", "price": 140, "spicy": true, "available": true, "tags": ["starter","chinese"], "description": "Cauliflower tossed in manchurian sauce", "image": "/image/Gobi Manchurian.jpeg" },
-    { "id": 26, "name": "Prawn Schezwan", "category": "Chinese", "type": "Non-Veg", "price": 280, "spicy": true, "available": true, "tags": ["seafood","chinese"], "description": "Schezwan style prawns with peppers", "image": "/image/Schezwan Prawn Fried Rice.jpeg" },
+    { "id": 25, "name": "Gobi Manchurian", "category": "Chinese", "type": "Veg", "price": 140, "spicy": true, "available": true, "tags": ["starter","chinese"], "description": "Cauliflower tossed in manchurian sauce", "image": "/image/gobi Manchurian.jpeg" },
+    { "id": 26, "name": "Prawn Schezwan", "category": "Chinese", "type": "Non-Veg", "price": 280, "spicy": true, "available": true, "tags": ["seafood","chinese"], "description": "Schezwan style prawns with peppers", "image": "/image/schezwan Prawn Fried Rice.jpeg" },
 
-    { "id": 27, "name": "Egg Fried Rice", "category": "Chinese", "type": "Non-Veg", "price": 130, "spicy": false, "available": true, "tags": ["rice","chinese"], "description": "Fried rice with scrambled egg & veggies", "image": "/image/Egg Fried.jpeg" },
-    { "id": 28, "name": "Thai Green Curry (Veg)", "category": "Continental", "type": "Veg", "price": 220, "spicy": true, "available": true, "tags": ["curry","continental"], "description": "Coconut-based green curry with vegetables", "image": "/image/Thai Green Curry.jpeg" },
+    { "id": 27, "name": "Egg Fried Rice", "category": "Chinese", "type": "Non-Veg", "price": 130, "spicy": false, "available": true, "tags": ["rice","chinese"], "description": "Fried rice with scrambled egg & veggies", "image": "/image/egg Fried.jpeg" },
+    { "id": 28, "name": "Thai Green Curry (Veg)", "category": "Continental", "type": "Veg", "price": 220, "spicy": true, "available": true, "tags": ["curry","continental"], "description": "Coconut-based green curry with vegetables", "image": "/image/thai Green Curry.jpeg" },
 
     { "id": 29, "name": "Grilled Fish Steak", "category": "Continental", "type": "Non-Veg", "price": 320, "spicy": false, "available": true, "tags": ["seafood","grill"], "description": "Pan-grilled fish with lemon butter sauce", "image": "/image/fish.jpeg" },
-    { "id": 30, "name": "Caesar Salad", "category": "Salads", "type": "Veg", "price": 140, "spicy": false, "available": true, "tags": ["salad","starter"], "description": "Lettuce, croutons, parmesan and caesar dressing", "image": "/image/Chicken Caesar Salad.jpeg" },
+    { "id": 30, "name": "Caesar Salad", "category": "Salads", "type": "Veg", "price": 140, "spicy": false, "available": true, "tags": ["salad","starter"], "description": "Lettuce, croutons, parmesan and caesar dressing", "image": "/image/chicken Caesar Salad.jpeg" },
 
-    { "id": 31, "name": "Chocolate Brownie", "category": "Dessert", "type": "Veg", "price": 90, "spicy": false, "available": true, "tags": ["dessert"], "description": "Warm chocolate brownie with ice cream", "image": "/image/Brownie Chocolate.jpeg" },
+    { "id": 31, "name": "Chocolate Brownie", "category": "Dessert", "type": "Veg", "price": 90, "spicy": false, "available": true, "tags": ["dessert"], "description": "Warm chocolate brownie with ice cream", "image": "/image/brownie Chocolate.jpeg" },
     { "id": 32, "name": "Gulab Jamun", "category": "Dessert", "type": "Veg", "price": 60, "spicy": false, "available": true, "tags": ["dessert","indian"], "description": "Soft syrupy gulab jamun", "image": "/image/rosgulla.jpeg" },
 
-    { "id": 33, "name": "Masala Fries", "category": "Sides", "type": "Veg", "price": 80, "spicy": true, "available": true, "tags": ["side","fastfood"], "description": "Crispy fries with masala seasoning", "image": "/image/Masala Fries.jpeg" },
-    { "id": 34, "name": "Coleslaw", "category": "Sides", "type": "Veg", "price": 70, "spicy": false, "available": true, "tags": ["side","salad"], "description": "Creamy cabbage coleslaw", "image": "/image/Coleslaw Delight.jpeg" },
+    { "id": 33, "name": "Masala Fries", "category": "Sides", "type": "Veg", "price": 80, "spicy": true, "available": true, "tags": ["side","fastfood"], "description": "Crispy fries with masala seasoning", "image": "/image/masala Fries.jpeg" },
+    { "id": 34, "name": "Coleslaw", "category": "Sides", "type": "Veg", "price": 70, "spicy": false, "available": true, "tags": ["side","salad"], "description": "Creamy cabbage coleslaw", "image": "/image/coleslaw Delight.jpeg" },
 
-    { "id": 35, "name": "Momos (Veg Steamed)", "category": "Street Food", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["streetfood","starter"], "description": "Steamed veg momos with achar", "image": "/image/Steamed Veg Momo.jpeg" },
+    { "id": 35, "name": "Momos (Veg Steamed)", "category": "Street Food", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["streetfood","starter"], "description": "Steamed veg momos with achar", "image": "/image/steamed Veg Momo.jpeg" },
     { "id": 36, "name": "Momos (Chicken Fried)", "category": "Street Food", "type": "Non-Veg", "price": 140, "spicy": true, "available": true, "tags": ["streetfood","starter"], "description": "Crispy fried chicken momos", "image": "/image/fried momo.jpeg" },
 
     { "id": 37, "name": "Cold Coffee", "category": "Drinks", "type": "Veg", "price": 110, "spicy": false, "available": true, "tags": ["drink","cold"], "description": "Iced blended coffee with milk", "image": "/image/choclate cofee.jpeg" },
@@ -56,15 +56,15 @@
     { "id": 40, "name": "Thali - NonVeg", "category": "Combos", "type": "Non-Veg", "price": 300, "spicy": true, "available": true, "tags": ["combo","indian"], "description": "Rice, chicken curry, dal, roti, salad, dessert", "image": "/image/nonveg thali.jpeg" },
 
     { "id": 41, "name": "Paneer Tikka", "category": "Starters", "type": "Veg", "price": 180, "spicy": true, "available": true, "tags": ["starter","grill"], "description": "Tandoori paneer cubes served hot", "image": "image/ptikka.jpeg" },
-    { "id": 42, "name": "Sizzler (Mixed)", "category": "Continental", "type": "Non-Veg", "price": 360, "spicy": false, "available": true, "tags": ["sizzler","continental"], "description": "Mixed grill sizzler with veg & chicken", "image": "/image/Chicken Shashlik Sizzlers.jpeg" },
+    { "id": 42, "name": "Sizzler (Mixed)", "category": "Continental", "type": "Non-Veg", "price": 360, "spicy": false, "available": true, "tags": ["sizzler","continental"], "description": "Mixed grill sizzler with veg & chicken", "image": "/image/chicken Shashlik Sizzlers.jpeg" },
 
-    { "id": 43, "name": "Veg Hakka Noodles", "category": "Chinese", "type": "Veg", "price": 130, "spicy": false, "available": true, "tags": ["noodles","chinese"], "description": "Soft Hakkan noodles with veggies", "image": "/image/Chicken Schezwan Noodles.jpeg" },
-    { "id": 44, "name": "Soya Chaap Masala", "category": "Indian", "type": "Veg", "price": 160, "spicy": true, "available": true, "tags": ["starter"], "description": "Protein-rich soya chaap in masala gravy", "image": "/image/Soya Chaap.jpeg" },
+    { "id": 43, "name": "Veg Hakka Noodles", "category": "Chinese", "type": "Veg", "price": 130, "spicy": false, "available": true, "tags": ["noodles","chinese"], "description": "Soft Hakkan noodles with veggies", "image": "/image/chicken Schezwan Noodles.jpeg" },
+    { "id": 44, "name": "Soya Chaap Masala", "category": "Indian", "type": "Veg", "price": 160, "spicy": true, "available": true, "tags": ["starter"], "description": "Protein-rich soya chaap in masala gravy", "image": "/image/soya Chaap.jpeg" },
 
     { "id": 45, "name": "Kadhai Chicken", "category": "Indian", "type": "Non-Veg", "price": 240, "spicy": true, "available": true, "tags": ["curry","main"], "description": "Spicy kadhai chicken with capsicum", "image": "/image/kadhai.jpeg" },
-    { "id": 46, "name": "Stuffed Kulcha", "category": "Indian", "type": "Veg", "price": 80, "spicy": false, "available": true, "tags": ["bread","side"], "description": "Potato-stuffed kulcha with butter", "image": "/image/Kulcha.jpeg" },
+    { "id": 46, "name": "Stuffed Kulcha", "category": "Indian", "type": "Veg", "price": 80, "spicy": false, "available": true, "tags": ["bread","side"], "description": "Potato-stuffed kulcha with butter", "image": "/image/kulcha.jpeg" },
 
-    { "id": 47, "name": "Sizzling Brownie", "category": "Dessert", "type": "Veg", "price": 130, "spicy": false, "available": true, "tags": ["dessert"], "description": "Brownie served hot on a sizzle plate with ice cream", "image": "/image/Sizzling Brownie.jpeg" },
+    { "id": 47, "name": "Sizzling Brownie", "category": "Dessert", "type": "Veg", "price": 130, "spicy": false, "available": true, "tags": ["dessert"], "description": "Brownie served hot on a sizzle plate with ice cream", "image": "/image/sizzling Brownie.jpeg" },
     { "id": 48, "name": "Mango Lassi", "category": "Drinks", "type": "Veg", "price": 100, "spicy": false, "available": true, "tags": ["drink","cold"], "description": "Fresh mango yogurt drink", "image": "/image/mangol.jpeg" }
   ]
 }
