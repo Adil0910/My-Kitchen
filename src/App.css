@@ -423,24 +423,7 @@ mix-blend-mode:normal;transition:width .18s ease,height .18s ease,transform .12s
   padding: 50px 80px;
   background: #f9f9f9;
 }
-.card {
-  width: 280px;
-  min-height: 360px;     /* CARD HEIGHT LOCK */
-  padding: 12px;
-  background: #fff;
-  border-radius: 8px;
-  border: 1px solid #eee;
-  transition: transform 0.2s ease;
-}
 
-.card-img {
-  width: 100%;
-  height: 180px;         /* IMAGE HEIGHT FIX */
-  object-fit: cover;
-  border-radius: 6px;
-  background: #f3f3f3;
-  display: block;
-}
 .contact-title {
   font-size: 32px;
   text-align: center;
