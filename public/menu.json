@@ -18,7 +18,7 @@
     { "id": 13, "name": "Margherita Pizza", "category": "Fast Food", "type": "Veg", "price": 220, "spicy": false, "available": true, "tags": ["pizza","fastfood"], "description": "Classic cheese & tomato pizza", "image": "/image/pizza.jpeg" },
     { "id": 14, "name": "Pepper Chicken Pizza", "category": "Fast Food", "type": "Non-Veg", "price": 260, "spicy": false, "available": true, "tags": ["pizza","fastfood"], "description": "Chicken, bell peppers & black pepper", "image": "/image/pepperonipizza.jpeg" },
     { "id": 15, "name": "Chicken Burger", "category": "Fast Food", "type": "Non-Veg", "price": 140, "spicy": false, "available": true, "tags": ["burger","fastfood"], "description": "Grilled chicken patty with lettuce & mayo", "image": "/image/chickenburger.jpeg" },
-    { "id": 16, "name": "Veg Burger", "category": "Fast Food", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["burger","fastfood"], "description": "Veg patty with tomato & lettuce", "image": "/image/veggie Burger.jpeg" },
+    { "id": 16, "name": "Veg Burger", "category": "Fast Food", "type": "Veg", "price": 120, "spicy": false, "available": true, "tags": ["burger","fastfood"], "description": "Veg patty with tomato & lettuce", "image": "/image/veggieburger.jpeg" },
 
     { "id": 17, "name": "Chicken Lollipop", "category": "Starters", "type": "Non-Veg", "price": 180, "spicy": true, "available": true, "tags": ["starter"], "description": "Crunchy deep-fried chicken lollipops", "image": "/image/chickenlollipop.jpeg" },
     { "id": 18, "name": "Hara Bhara Kebab", "category": "Starters", "type": "Veg", "price": 140, "spicy": false, "available": true, "tags": ["starter"], "description": "Spinach & pea kebabs with mint chutney", "image": "/image/harakabab.jpeg" },
@@ -62,7 +62,7 @@
     { "id": 44, "name": "Soya Chaap Masala", "category": "Indian", "type": "Veg", "price": 160, "spicy": true, "available": true, "tags": ["starter"], "description": "Protein-rich soya chaap in masala gravy", "image": "/image/soyachaap.jpeg" },
 
     { "id": 45, "name": "Kadhai Chicken", "category": "Indian", "type": "Non-Veg", "price": 240, "spicy": true, "available": true, "tags": ["curry","main"], "description": "Spicy kadhai chicken with capsicum", "image": "/image/kadhai.jpeg" },
-    { "id": 46, "name": "Stuffed Kulcha", "category": "Indian", "type": "Veg", "price": 80, "spicy": false, "available": true, "tags": ["bread","side"], "description": "Potato-stuffed kulcha with butter", "image": "/image/kulcha.jpeg" },
+    { "id": 46, "name": "Stuffed Kulcha", "category": "Indian", "type": "Veg", "price": 80, "spicy": false, "available": true, "tags": ["bread","side"], "description": "Potato-stuffed kulcha with butter", "image": "/image/kulchha.jpeg" },
 
     { "id": 47, "name": "Sizzling Brownie", "category": "Dessert", "type": "Veg", "price": 130, "spicy": false, "available": true, "tags": ["dessert"], "description": "Brownie served hot on a sizzle plate with ice cream", "image": "/image/sizzlingbrownie.jpeg" },
     { "id": 48, "name": "Mango Lassi", "category": "Drinks", "type": "Veg", "price": 100, "spicy": false, "available": true, "tags": ["drink","cold"], "description": "Fresh mango yogurt drink", "image": "/image/mangol.jpeg" }
