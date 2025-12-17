@@ -17,7 +17,7 @@ export default function Details() {
   if (!item) return <h2 style={{ textAlign: "center" }}>Loading...</h2>;
 
   return (
-    <div style={styles.container}>
+    <div className="conatinerdetail" style={styles.container}>
       <div  style={styles.card} className="cardss" >
                <img src={item.image} alt={item.name} style={styles.image} className="imagess" />
 

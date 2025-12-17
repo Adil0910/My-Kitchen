@@ -806,6 +806,7 @@ button.rbtn {
   }
 .cardss {
     flex-direction: column;
+    border-radius: 0px !important;
 }
 span.cartss {
     right: 149px !important;
@@ -838,6 +839,9 @@ img.imagess {
   .service-card img {
     height: 340px !important;
   }
+  .conatinerdetail {
+    padding: 0px !important;
+}
 .div {
     padding: 0px !important;
 }
