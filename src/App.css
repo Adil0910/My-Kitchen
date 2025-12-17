@@ -808,6 +808,9 @@ button.rbtn {
     flex-direction: column;
     border-radius: 0px !important;
 }
+.silderbtm {
+    display: none;
+}
 span.cartss {
     right: 149px !important;
 }

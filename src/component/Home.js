@@ -75,7 +75,7 @@ return () => window.removeEventListener("mousemove", move);
 
       <div style={{ position: "relative" }}>
         {/* Prev Button */}
-        <button 
+        <button className="silderbtm"
           onClick={scrollLeft} 
           style={{
             position: "absolute",
@@ -119,7 +119,7 @@ return () => window.removeEventListener("mousemove", move);
         </div>
 
         {/* Next Button */}
-        <button 
+        <button className="silderbtm"
           onClick={scrollRight} 
           style={{
             position: "absolute",
